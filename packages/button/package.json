@@ -1,5 +1,5 @@
 {
-  "name": "epsilon-button",
+  "name": "epsilon-prasad-button",
   "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
@@ -13,5 +13,6 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
-  }
+  },
+  "gitHead": "c50e4d078147c3004643203cc68999eafb750a3b"
 }
