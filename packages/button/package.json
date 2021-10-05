@@ -1,6 +1,7 @@
 {
-    "name": "@epsilon/button",
+    "name": "epsilon-button",
     "version": "1.0.0",
+    "license": "MIT",
     "main": "lib/index.js",
     "module": "src/index.js",
     "dependencies": {
