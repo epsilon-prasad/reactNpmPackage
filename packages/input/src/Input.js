@@ -44,7 +44,7 @@ const StyledInput = styled.input`
 `;
 
 const Input = ({ disabled, id, label, placeholder }) => (
-  <input type="text" placeholder={placeholder} id={id} disabled={disabled} />
+  <button>{placeholder}</button>
 );
 
 Input.propTypes = {
