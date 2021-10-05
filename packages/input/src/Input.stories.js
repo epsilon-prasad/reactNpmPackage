@@ -10,5 +10,6 @@ export default {
 export const placeholder = (args) => <Input {...args} />;
 
 placeholder.args = {
-  placeholder:'testing'
+  placeholder:'testing',
+  disabled: true
 }

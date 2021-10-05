@@ -44,15 +44,7 @@ const StyledInput = styled.input`
 `;
 
 const Input = ({ disabled, id, label, placeholder }) => (
-  <StyledContainer>
-    <StyledLabel htmlFor={id}>{label}</StyledLabel>
-    <StyledInput
-      disabled={disabled}
-      id={id}
-      placeholder={placeholder}
-      type="text"
-    />
-  </StyledContainer>
+  <input type="text" placeholder={placeholder} id={id} disabled={disabled} />
 );
 
 Input.propTypes = {
