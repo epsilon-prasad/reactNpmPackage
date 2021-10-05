@@ -7,4 +7,8 @@ export default {
   title: 'Design System/Input'
 };
 
-export const placeholder = () => <Input placeholder="user@gmail.com" />;
+export const placeholder = (args) => <Input {...args} />;
+
+placeholder.args = {
+  placeholder:'testing'
+}
