@@ -4,6 +4,9 @@
   "license": "MIT",
   "main": "lib/index.js",
   "module": "src/index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
