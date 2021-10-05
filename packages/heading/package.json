@@ -1,6 +1,6 @@
 {
   "name": "epsilon-prasad-heading",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "src/index.js",
