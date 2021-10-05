@@ -1,0 +1,19 @@
+{
+    "name": "epsilon-prasad-heading",
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "module": "src/index.js",
+    "dependencies": {
+      "react": "latest",
+      "react-dom": "latest",
+      "styled-components": "latest"
+    },
+    "peerDependencies": {
+      "react": "^16.0.0",
+      "react-dom": "^16.0.0",
+      "styled-components": "^5.0.0"
+    },
+    "gitHead": "fd8c34aca6ab3b0f08a39877c5f6e0ac30cd9f86"
+  }
+  
