@@ -1,7 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber Web" src="http://features.frontend.quero.s3-website.us-east-2.amazonaws.com/images/logo-querobolsa.svg" width="300px"/>
-    <br>
-    Design System - Test front of Quero Educação
+    Design System - Test front of Resusable Component
 </h1>
 
 <h4 align="center">
@@ -21,23 +19,12 @@
 
 ## See the project working
 
-- 🚀 [[LIVE] - Features](http://features.frontend.quero.s3-website.us-east-2.amazonaws.com/)
-
-- 📝 [[DOCUMENTATION] - Design system](http://designsystem.frontend.quero.s3-website.us-east-2.amazonaws.com/?path=/docs/core-button--primary)
-
 ## Important!!!
 
 this project was divided into 2 repositories, one for the design system and another for the implementation of the page with the features.
 
 - 💄 [REPO 1] This one, Design system
-  - 🔧 [[NPM] @joaowillamy-test-quero/core](https://www.npmjs.com/package/@joaowillamy-test-quero/core)
-  - 🔧 [[NPM] @joaowillamy-test-quero/form](https://www.npmjs.com/package/@joaowillamy-test-quero/form)
-  - 🔧 [[NPM] @joaowillamy-test-quero/theme](https://www.npmjs.com/package/@joaowillamy-test-quero/theme)
-  - 🔖 [Releases](https://github.com/joaowillamy/react-storybook-jest-lerna/releases)
-  - [Pull Request](https://github.com/joaowillamy/react-storybook-jest-lerna)
-- [[REPO 2] the features](https://github.com/joaowillamy/front-end-test-quero)
-  - [Pull Request](https://github.com/joaowillamy/front-end-test-quero/pulls?q=is%3Apr+is%3Aclosed)
-  - [Issues](https://github.com/joaowillamy/front-end-test-quero/issues?q=is%3Aissue+is%3Aclosed)
+  - 🔧 [[NPM] epsilon-prasad-heading](https://www.npmjs.com/package/epsilon-prasad-heading)
 
 > A Monorepo with multiple packages and a shared build, test, and release process.
 
@@ -62,6 +49,7 @@ this project was divided into 2 repositories, one for the design system and anot
 
 - `lerna changed` - Show which packages have changed.
 - `lerna diff` - Show specifically what files have cause the packages to change.
+- `lerna version` - Show specifically what package version changed.
 
 ## Linking
 
