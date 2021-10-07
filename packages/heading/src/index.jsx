@@ -4,7 +4,7 @@ const Heading = ({label, subText}) =>{
     return(
         <>
             <h1 style={{color: "blue"}}>{label}</h1>
-            <p style={{color: "green"}}>{subText}</p>
+            <p style={{color: "blue"}}>{subText}</p>
         </>
     )
 }

@@ -10,6 +10,6 @@ export default {
 export const Headings = (args) => <Heading {...args} />;
 
 Headings.args = {
-    label:'Testing',
+    label:'Hello',
     subText: 'This is sub Text'
 }
